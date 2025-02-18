@@ -1,0 +1,41 @@
+# Code::Blocks workspace and project files (optional)
+*.layout
+*.cbp.bak
+
+# Build output files
+bin/
+obj/
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.dylib
+*.lib
+*.a
+
+# CMake temporary files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Debug and log files
+*.log
+*.cache
+*.tmp
+
+# Editor/IDE specific files
+.vscode/
+*.code-workspace
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Windows/Mac specific files
+.DS_Store
+Thumbs.db
+
+# Compiled Python scripts (if using scripts)
+*.pyc
+__pycache__/
