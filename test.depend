@@ -1,7 +1,5 @@
 # depslib dependency file v1.0
-1740118410 source:c:\users\aj\desktop\dojo\c++\test1\test\main.cpp
+1740132020 source:c:\users\aj\desktop\dojo\c++\test1\test\main.cpp
 	<iostream>
-	<string>
-	<cmath>
-	<vector>
+	<ctime>
 
